@@ -18,3 +18,5 @@
 
 Картинки взяты из макета Фигмы.
 Воспользовались оптимизацией картинок с помощью сайта [tinypng](https://tinypng.com/), чтобы сайт загружался быстрее.
+
+[ссылка на GitHub Pages](https://keskilnah.github.io/russian-travel/)
