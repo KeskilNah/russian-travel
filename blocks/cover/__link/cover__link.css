@@ -1,0 +1,46 @@
+.cover__link {
+  background-image: url(../../../images/__background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:contain;
+  max-height: 740px;
+  min-width: 1184px;
+  margin: 0 auto 92px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+  color: #FFF;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__link {
+    max-height: 640px;
+    min-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__link {
+    min-height: 480px;
+    min-width: 768px;
+    margin: 0 auto 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__link {
+    min-height: 200px;
+    min-width: 320px;
+    margin: 0 auto 64px;
+  }
+}
+
+.cover__link:visited {
+  color: #FFF;
+}
+
+.cover__link:active {
+  color: #FFF;
+}
